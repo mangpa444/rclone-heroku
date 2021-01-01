@@ -14,4 +14,4 @@ https://github.com/amivin/rclone-heroku.git
 Or run the following from the heroku command line:
 
 ```
-heroku buildpacks:add https://github.com/amivin/rclone-heroku.git
+heroku buildpacks:add https://github.com/mangpa444/rclone-heroku.git
